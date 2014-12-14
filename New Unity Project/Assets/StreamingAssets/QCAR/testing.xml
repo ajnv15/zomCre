@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="first_test" size="500.000000 500.000000" />
+    <ImageTarget name="stones" size="500.000000 332.727264" >
+    <VirtualButton name="buton1" rectangle="2 2 2 2" enabled ="true" sensitity="HIGH" />
+    </ImageTarget>
+    
+    <ImageTarget name="bloc" size="10.000000 7.000000" />
+  </Tracking>
+</QCARConfig>
